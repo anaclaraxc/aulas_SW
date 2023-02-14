@@ -1,2 +1,2 @@
 # aulas_SW
-Repositório para as aulas de SIstema Web
+Repositório para as aulas de Sistema Web
